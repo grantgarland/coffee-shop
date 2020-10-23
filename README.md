@@ -1,3 +1,11 @@
+## To run the Shop:
+Change the following value in `index.ts from `false` to `true`
+
+```js
+public SHOP_OPEN: boolean = false;
+``` 
+
+
 The Coffee Shop
 
 In this exercise you’ll be recreating the functionality of a coffee shop.
